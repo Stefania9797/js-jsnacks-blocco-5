@@ -37,8 +37,3 @@ function pesoTotale(array) {
 }
 console.log("Il peso totale delle zucchine corte è "+pesoTotale(zucchineCorte)+" kg");
 console.log("Il peso totale delle zucchine lunghe "+pesoTotale(zucchineLunghe)+" kg");
-/*var pesoZucchineCorte=0;
-var pesoZucchineLunghe=0;
-for (var j = 0; j < Zucchine.length; j++) {
-    pesoZucchineCorte += Zucchine[i]["peso"];
-}*/
