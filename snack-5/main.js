@@ -11,7 +11,7 @@ function getRandomNumber(min, max) {
 function GetNewArray(array,a,b){
     var newArray=[];
     for(var i=0; i<array.length;i++){
-    if(array[i]>=a && array[i]<=b){ //|| array[i]<=b
+    if(array[i]>=a && array[i]<=b){
         newArray.push(array[i])
     }
 }
