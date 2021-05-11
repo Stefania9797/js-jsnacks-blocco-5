@@ -18,4 +18,5 @@ function ConcatArray(array1,array2){
     }
     return arrayConcatenato
 }
-console.log(ConcatArray(lettere,numeri));
+lettereNumeri=ConcatArray(lettere,numeri)
+console.log(lettereNumeri);
